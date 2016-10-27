@@ -1,4 +1,5 @@
-# ejb
+# JavaEE EJB Example Code
+
 This is a small and very simple example for the people who wants to learn Java EE EJB technology. It covers EJB stateless session beans, JPA Entity beans, JMS Point-to-Point Message transport and CDI Interceptors.
 
 The Code is very small and lightweight and aims the developer that wants to understand how EJBs are working. 
