@@ -1,0 +1,9 @@
+ejb-client/.idea/
+ejb-client/ejb-client.iml
+ejb-client/out/
+
+ejb/.idea/
+ejb/ejb.iml
+ejb/lib/
+ejb/out/
+
